@@ -1,5 +1,4 @@
-# 🏥 AI-Driven Disease Risk Assessment and Warning System
-### AI-Powered Multilingual Healthcare Assistant  
+# 🏥 AI-Powered Multilingual Healthcare Assistant
 
 MediLingo Pro is an integrated healthcare platform that combines **real-time medical translation**, **AI-based symptom analysis**, and **machine learning disease prediction** to improve doctor–patient communication and assist in early diagnosis.
 
